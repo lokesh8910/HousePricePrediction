@@ -1,1 +1,3 @@
 # HousePricePrediction
+
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But there are many other factors that influence the price negotiations of the house other than the number of bedrooms or a white-picket fence. This project uses advanced regression techniques on Ames housing data set which consists of 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. Size of the dataset used in this project is 1460 X 79, where 79 represents the features of 1460 observations.
